@@ -1,0 +1,11 @@
+# Column 1: index of the respective exchange (starting from 0);
+# Column 2: "i"th spin (in the original unit cell);
+# Column 3: "j"th spin;
+# Columns 4, 5, 6: the index of the cell accommodating the "j"th spin,
+#                  assuming that the "i"th spin lives in the (0 0 0) cell.
+0 0 1  0  0  0
+0 0 2  0  0  0
+0 1 2  0  0  0
+0 0 1 -1  0  0
+0 1 2  1 -1  0
+0 0 2  0 -1  0 
